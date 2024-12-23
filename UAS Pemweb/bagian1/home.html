@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tampilan Awal Pemesanan Tiket</title>
+    <style>
+        body {
+            font-family: 'Poppins', sans-serif;
+            background: linear-gradient(to right, #6a11cb, #2575fc);
+            color: #fff;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            text-align: center;
+        }
+
+        h1 {
+            font-size: 3em;
+            margin-bottom: 20px;
+        }
+
+        p {
+            font-size: 1.2em;
+            margin-bottom: 30px;
+        }
+
+        .button-container {
+            margin-top: 20px;
+        }
+
+        button {
+            background: linear-gradient(to right, #6a11cb, #2575fc);
+            color: #fff;
+            font-size: 1.2em;
+            padding: 15px 30px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: background 0.3s ease;
+        }
+
+        button:hover {
+            background: linear-gradient(to right, #2575fc, #6a11cb);
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Selamat Datang di Pemesanan Tiket</h1>
+    <p>Pesan tiket Anda dengan mudah dan cepat untuk acara yang Anda sukai.</p>
+
+    <div class="button-container">
+        <button onclick="window.location.href='../bagian2/index.php'">Mulai Pemesanan</button>
+    </div>
+
+    <!-- Tombol Login yang mengarahkan ke halaman login -->
+    <div class="button-container">
+        <button onclick="window.location.href='login.html'">Login</button>
+    </div>
+
+</body>
+</html>
