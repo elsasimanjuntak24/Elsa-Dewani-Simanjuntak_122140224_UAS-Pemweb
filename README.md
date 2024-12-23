@@ -5,11 +5,11 @@
 
 ![image](https://github.com/user-attachments/assets/f4eccf77-fab1-4297-8d48-3d52b8601084)
 
-Bagian 2: Server-side Programming
+# Bagian 2: Server-side Programming
 ![image](https://github.com/user-attachments/assets/16f6d7e8-188f-4e84-8ce8-45ecaf3c3a61)
 
-Bagian 3: Database Management 
+# Bagian 3: Database Management 
 ![image](https://github.com/user-attachments/assets/ee09f853-93e0-4d0f-9e10-0526d9784159)
 
-Bagian 4: State Management
+# Bagian 4: State Management
 ![image](https://github.com/user-attachments/assets/58a50931-3422-462d-9538-46f042df7041)
